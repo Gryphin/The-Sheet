@@ -1,0 +1,2387 @@
+[
+  {
+    "data": {
+      "id": 10017390,
+      "btag": "Eagle",
+      "name": "Eagle",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Tirion_Pose",
+      "skulls": 126,
+      "level": 39,
+      "pvpWins": 175,
+      "leaderA": "OldMurkEyeLeader",
+      "leaderAWins": 12,
+      "leaderAHonor": 1075,
+      "leaderB": "BaronRivendareLeader",
+      "leaderBWins": 71,
+      "leaderBHonor": 2007,
+      "leaderC": "GrommashLeader",
+      "leaderCWins": 38,
+      "leaderCHonor": 1191,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;17",
+          "DefiasBandits;PickLock;22",
+          "GryphonRider;AirDrop;18",
+          "Execute;Overpower;20",
+          "WhelpEggs;FlameBurst;18",
+          "FireElemental;ImmolationAura;17",
+          "Quilboar;Bristleback;20"
+        ],
+        [
+          "TirionLeader;DivineShield;19",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+          "Huntress;Shadowmeld;18",
+          "Footmen;ShieldBash;18",
+          "BatRider;EnchantedVials;17",
+          "Quilboar;Bristleback;20",
+          "Harpy;TrinketCollectors;18"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+          "MurlocTidehunters;SafetyBubble;20",
+          "Harpy;TrinketCollectors;18",
+          "GnollBrute;Rabid;18",
+          "Quilboar;Bristleback;20",
+          "GryphonRider;AirDrop;18",
+          "Execute;Overpower;20"
+        ],
+        [
+          "GrommashLeader;SavageStrikes;20",
+          "GoblinSapper;RocketBoots;19",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "AngryChickens;Snackrifice;19",
+          "WhelpEggs;FlameBurst;18",
+          "Quilboar;TunnelVision;20",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;20",
+          "WhelpEggs;FlameBurst;18",
+          "Drake;MotherDrake;17",
+          "Gargoyle;WingBuffet;17",
+          "Quilboar;Bristleback;20",
+          "Harpy;TrinketCollectors;18",
+          "GryphonRider;AirDrop;18"
+        ],
+        [
+          "BloodmageThalnosLeader;DrainLife;17",
+          "SkeletonParty;CorpseRun;18",
+          "Gargoyle;WingBuffet;17",
+          "ArcaneBlast;Amplification;17",
+          "Quilboar;Bristleback;20",
+          "GryphonRider;AirDrop;18",
+          "Chimaera;FrostShock;17"
+        ],
+        [
+          "MaievLeader;EnvelopingShadows;20",
+          "S.A.F.E.PilotFlyingMachine;Muttonizer;20",
+          "Worgen;Premeditation;17",
+          "EarthElemental;ObsidianShard;17",
+          "CheatDeath;Vampirism;17",
+          "Huntress;Shadowmeld;18",
+          "WhelpEggs;FlameBurst;18"
+        ],
+        [
+          "HoggerLeader;HamHock;20",
+          "Quilboar;Bristleback;20",
+          "MurlocTidehunters;SafetyBubble;20",
+          "WitchDoctor;AmplifyCurse;17",
+          "Harpy;TrinketCollectors;18",
+          "ArcaneBlast;Amplification;18",
+          "WhelpEggs;FlameBurst;18"
+        ],
+        [
+          "CairneLeader;Reincarnation;19",
+          "BatRider;EnchantedVials;17",
+          "WarsongGrunts;Command;17",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;19",
+          "WhelpEggs;FlameBurst;18",
+          "Quilboar;TunnelVision;20",
+          "AngryChickens;Snackrifice;19"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;18",
+          "Gargoyle;WingBuffet;17",
+          "Necromancer;JeweledSkulls;17",
+          "Worgen;Premeditation;17",
+          "Quilboar;TunnelVision;20",
+          "MurlocTidehunters;SafetyBubble;19",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;19"
+        ],
+        [
+          "SneedLeader;LeadWithGreed;17",
+          "WarsongGrunts;Command;17",
+          "Shaman;EarthShield;20",
+          "GoblinSapper;RocketBoots;19",
+          "Harpy;TrinketCollectors;18",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "Quilboar;Bristleback;20"
+        ],
+        [
+          "CharlgaLeader;SpiritPassage;17",
+          "DefiasBandits;PickLock;22",
+          "Raptors;Motivation;17",
+          "MurlocTidehunters;SafetyBubble;18",
+          "Execute;Overpower;20",
+          "Quilboar;Bristleback;20",
+          "ArcaneBlast;Amplification;17"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;18",
+          "WhelpEggs;FlameBurst;18",
+          "Pyromancer;Pyroblast;17",
+          "FireElemental;ImmolationAura;17",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+          "Harpy;TrinketCollectors;18",
+          "Quilboar;TunnelVision;20"
+        ],
+        [
+          "ThaurissanLeader;Hubris;15",
+          "WhelpEggs;FlameBurst;18",
+          "Pyromancer;Pyroblast;17",
+          "Mountaineer;MendPets;21",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "Quilboar;Bristleback;20",
+          "Ghoul;BoneArmor;17"
+        ],
+        [
+          "SylvanasLeader;BlackArrow;19",
+          "Gargoyle;WingBuffet;17",
+          "SkeletonParty;CorpseRun;17",
+          "DarkspearTroll;BigBadVoodoo;17",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;19",
+          "MurlocTidehunters;SafetyBubble;17",
+          "Quilboar;TunnelVision;20"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "7cdc6dc4-d1ff-4a29-8067-07f94d96db1e"
+  },
+  {
+    "data": {
+      "id": 2065635,
+      "btag": "Raiden",
+      "name": "Raiden",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_DarkmoonFaire_Eyes",
+      "skulls": 124,
+      "level": 38,
+      "pvpWins": 94,
+      "leaderA": "SylvanasLeader",
+      "leaderAWins": 22,
+      "leaderAHonor": 2007,
+      "leaderB": "BaronRivendareLeader",
+      "leaderBWins": 13,
+      "leaderBHonor": 742,
+      "leaderC": "RendLeader",
+      "leaderCWins": 20,
+      "leaderCHonor": 1571,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;17",
+          "DefiasBandits;PickLock;17",
+          "HarvestGolem;UnstableCore;16",
+          "Blizzard;ColdSnap;16",
+          "Gargoyle;WingBuffet;17",
+          "Quilboar;TunnelVision;17",
+          "WhelpEggs;FlameBurst;17"
+        ],
+        [
+          "TirionLeader;ByTheLight;18",
+          "Worgen;Premeditation;18",
+          "DefiasBandits;PickLock;18",
+          "FireElemental;ImmolationAura;18",
+          "Execute;KillingSpree;18",
+          "WhelpEggs;FlameBurst;18",
+          "Shaman;EarthShield;20"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+          "Quilboar;TunnelVision;18",
+          "Harpy;InfectiousSwipes;20",
+          "StonehoofTauren;Provoke;18",
+          "Prowler;OnTheProwl;18",
+          "Firehammer;MoultinMetal;17",
+          "Gargoyle;WingBuffet;17"
+        ],
+        [
+          "GrommashLeader;MirrorImage;17",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "WarsongGrunts;Command;17",
+          "AngryChickens;FuriousFowl;17",
+          "Quilboar;TunnelVision;18",
+          "Mountaineer;FrenziedSpirit;18",
+          "Vultures;Migration;17"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;20",
+          "Drake;MotherDrake;17",
+          "WhelpEggs;FlameBurst;18",
+          "Chimaera;CorrosiveBreath;20",
+          "Gargoyle;WingBuffet;18",
+          "Quilboar;TunnelVision;18",
+          "Footmen;Fortification;18"
+        ],
+        [
+          "BloodmageThalnosLeader;Bane;17",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "Ghoul;BoneArmor;17",
+          "SmokeBombSpell;BandOfThieves;17",
+          "Quilboar;TunnelVision;17",
+          "Chimaera;CorrosiveBreath;19",
+          "GoblinSapper;RocketBoots;17"
+        ],
+        [
+          "MaievLeader;Shadowstep;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+          "Worgen;Premeditation;16",
+          "WhelpEggs;FlameBurst;17",
+          "Quilboar;TunnelVision;17",
+          "EarthElemental;ObsidianShard;17",
+          "GryphonRider;MightyThrow;17"
+        ],
+        [
+          "HoggerLeader;HamHock;18",
+          "Chimaera;Leviathan;20",
+          "Vultures;Migration;17",
+          "PlagueFarmer;SplashingPumpkins;18",
+          "Pyromancer;Pyroblast;18",
+          "AngryChickens;FuriousFowl;18",
+          "Quilboar;TunnelVision;18"
+        ],
+        [
+          "CairneLeader;Reincarnation;21",
+          "Shaman;EarthShield;20",
+          "BatRider;EnchantedVials;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "Harpy;InfectiousSwipes;20",
+          "Quilboar;TunnelVision;18",
+          "FaerieDragon;Invisibility;17"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;19",
+          "PlagueFarmer;SplashingPumpkins;18",
+          "Gargoyle;WingBuffet;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "Chimaera;CorrosiveBreath;20",
+          "DefiasBandits;PickLock;18",
+          "GoblinSapper;RocketBoots;18"
+        ],
+        [
+          "SneedLeader;LeadWithGreed;18",
+          "StonehoofTauren;Provoke;18",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "EarthElemental;ObsidianShard;18",
+          "Quilboar;TunnelVision;18",
+          "Harpy;InfectiousSwipes;20",
+          "WhelpEggs;FlameBurst;18"
+        ],
+        [
+          "CharlgaLeader;NaturesGrasp;17",
+          "Harpy;InfectiousSwipes;20",
+          "Quilboar;TunnelVision;18",
+          "Huntress;ElvenMight;18",
+          "EarthElemental;ObsidianShard;17",
+          "WhelpEggs;FlameBurst;18",
+          "DefiasBandits;PickLock;17"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;18",
+          "Pyromancer;Pyroblast;18",
+          "WhelpEggs;FlameBurst;18",
+          "WitchDoctor;AmplifyCurse;17",
+          "GoblinSapper;RocketBoots;18",
+          "PlagueFarmer;SplashingPumpkins;18",
+          "BatRider;EnchantedVials;17"
+        ],
+        [
+          "ThaurissanLeader;Hubris;17",
+          "LivingBomb;ChainReaction;17",
+          "WhelpEggs;FlameBurst;18",
+          "AngryChickens;FuriousFowl;17",
+          "Footmen;Fortification;17",
+          "Harpy;InfectiousSwipes;20",
+          "Quilboar;TunnelVision;18"
+        ],
+        [
+          "SylvanasLeader;BlackArrow;20",
+          "PlagueFarmer;SplashingPumpkins;18",
+          "Ghoul;BoneArmor;18",
+          "StonehoofTauren;Provoke;18",
+          "Quilboar;TunnelVision;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "Harpy;InfectiousSwipes;20"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "5bd072de-da0a-4c00-9165-1a8a1a3bfc52"
+  },
+  {
+    "data": {
+      "id": 50422993,
+      "btag": "Krimsonix",
+      "name": "Krimsonix",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Tirion_Pose",
+      "skulls": 65,
+      "level": 25,
+      "pvpWins": 76,
+      "leaderA": "GrommashLeader",
+      "leaderAWins": 17,
+      "leaderAHonor": 2452,
+      "leaderB": "BaronRivendareLeader",
+      "leaderBWins": 20,
+      "leaderBHonor": 2672,
+      "leaderC": "DrakkisathLeader",
+      "leaderCWins": 17,
+      "leaderCHonor": 3056,
+      "socials": null,
+      "armies": [
+        [
+          "TirionLeader;DivineShield;16",
+          "S.A.F.E.PilotFlyingMachine;;13",
+          "DefiasBandits;;12",
+          "EarthElemental;;13",
+          "Harpy;;12",
+          "Quilboar;;14",
+          "Blizzard;;12"
+        ],
+        [
+          "GrommashLeader;;14",
+          "Shaman;;13",
+          "DarkspearTroll;;14",
+          "WhelpEggs;;12",
+          "WitchDoctor;;13",
+          "SkeletonWarrior;;13",
+          "Quilboar;;14"
+        ],
+        [
+          "RendLeader;;11",
+          "WhelpEggs;;12",
+          "Drake;;11",
+          "GryphonRider;AirDrop;14",
+          "DarkspearTroll;;14",
+          "Quilboar;;14",
+          "Worgen;;11"
+        ],
+        [
+          "MaievLeader;;11",
+          "Worgen;;10",
+          "HarvestGolem;;10",
+          "Quilboar;;12",
+          "EarthElemental;;12",
+          "DarkspearTroll;;13",
+          "Drake;;11"
+        ],
+        [
+          "HoggerLeader;HamHock;14",
+          "Quilboar;;14",
+          "Harpy;;12",
+          "Spiderlings;;10",
+          "AngryChickens;;10",
+          "MurlocTidehunters;;11",
+          "S.A.F.E.PilotFlyingMachine;;13"
+        ],
+        [
+          "CairneLeader;Reincarnation;15",
+          "Shaman;;13",
+          "DarkspearTroll;BigBadVoodoo;15",
+          "Pyromancer;;12",
+          "StonehoofTauren;;12",
+          "WarsongRaider;;13",
+          "GryphonRider;AirDrop;15"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;15",
+          "GryphonRider;AirDrop;14",
+          "EarthElemental;;12",
+          "Quilboar;;14",
+          "Huntress;;12",
+          "Blizzard;;11",
+          "DarkspearTroll;;14"
+        ],
+        [
+          "SneedLeader;;10",
+          "Shaman;;11",
+          "DarkspearTroll;;12",
+          "WarsongRaider;;12",
+          "BatRider;;11",
+          "WitchDoctor;;12",
+          "ChainLightning;;12"
+        ],
+        [
+          "DrakkisathLeader;;12",
+          "Pyromancer;;12",
+          "FireElemental;;10",
+          "EarthElemental;;12",
+          "Flamewaker;;11",
+          "WhelpEggs;;12",
+          "DarkspearTroll;;14"
+        ],
+        [
+          "ThaurissanLeader;;12",
+          "Drake;;11",
+          "MoltenGiant;;10",
+          "DarkspearTroll;;14",
+          "Pyromancer;;12",
+          "WhelpEggs;;12",
+          "Firehammer;;10"
+        ],
+        [
+          "SylvanasLeader;;11",
+          "SkeletonWarrior;;13",
+          "Necromancer;;12",
+          "StonehoofTauren;;12",
+          "DarkspearTroll;;14",
+          "Quilboar;;14",
+          "EarthElemental;;12"
+        ]
+      ],
+      "lastUpdate": 1715729907
+    },
+    "token": "9c23957c-a407-40d3-af24-79b33956046c"
+  },
+  {
+    "data": {
+      "id": 55744095,
+      "btag": "Daccus",
+      "name": "Daccus",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Tirion_Pose",
+      "skulls": 117,
+      "level": 37,
+      "pvpWins": 254,
+      "leaderA": "DrakkisathLeader",
+      "leaderAWins": 26,
+      "leaderAHonor": 2049,
+      "leaderB": "GrommashLeader",
+      "leaderBWins": 15,
+      "leaderBHonor": 2818,
+      "leaderC": "JainaLeader",
+      "leaderCWins": 22,
+      "leaderCHonor": 3169,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;19",
+          "Blizzard;ColdSnap;17",
+          "GryphonRider;MightyThrow;18",
+          "ChainLightning;BrilliantFlash;17",
+          "Pyromancer;Conflagrate;20",
+          "DarkIronMiner;DwarvenAmbition;19",
+          "Quilboar;TunnelVision;18"
+        ],
+        [
+          "TirionLeader;DivineShield;20",
+          "Huntress;ElvenMight;18",
+          "GryphonRider;MightyThrow;18",
+          "Prowler;OnTheProwl;17",
+          "PolymorphSpell;GoldenFleece;17",
+          "Harpy;InfectiousSwipes;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+          "Quilboar;TunnelVision;18",
+          "Chimaera;Leviathan;17",
+          "EarthElemental;ObsidianShard;17",
+          "SkeletonParty;5Man;17",
+          "Pyromancer;Pyroblast;20",
+          "WhelpEggs;FlameBurst;17"
+        ],
+        [
+          "GrommashLeader;SavageStrikes;20",
+          "StonehoofTauren;Momentum;18",
+          "WitchDoctor;AmplifyCurse;18",
+          "Harpy;InfectiousSwipes;18",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "ChainLightning;BrilliantFlash;17",
+          "Quilboar;TunnelVision;18"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;17",
+          "WhelpEggs;FlameBurst;17",
+          "FireElemental;ImmolationAura;17",
+          "Harpy;InfectiousSwipes;17",
+          "Chimaera;Leviathan;17",
+          "DarkIronMiner;DwarvenAmbition;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17"
+        ],
+        [
+          "BloodmageThalnosLeader;Bane;20",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "Ghoul;BoneArmor;17",
+          "SmokeBombSpell;ThroughTheShadows;17",
+          "WhelpEggs;FlameBurst;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+          "GoblinSapper;RocketBoots;17"
+        ],
+        [
+          "MaievLeader;Remorseless;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "Huntress;ElvenMight;18",
+          "DarkIronMiner;DwarvenAmbition;19",
+          "Harpy;InfectiousSwipes;17",
+          "EarthElemental;ObsidianShard;17",
+          "HolyNova;InnerFire;17"
+        ],
+        [
+          "HoggerLeader;HamHock;19",
+          "Quilboar;TunnelVision;18",
+          "Harpy;InfectiousSwipes;17",
+          "SkeletonWarrior;Exhume;17",
+          "Pyromancer;Conflagrate;20",
+          "Worgen;Premeditation;17",
+          "WhelpEggs;FlameBurst;17"
+        ],
+        [
+          "CairneLeader;Reincarnation;18",
+          "Execute;Overpower;18",
+          "Shaman;EarthShield;18",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "Quilboar;TunnelVision;18",
+          "Harpy;InfectiousSwipes;18",
+          "FireElemental;ImmolationAura;18"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;20",
+          "Ghoul;BoneArmor;18",
+          "SkeletonParty;5Man;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "Huntress;ElvenMight;18",
+          "Harpy;InfectiousSwipes;18",
+          "Pyromancer;Pyroblast;20"
+        ],
+        [
+          "SneedLeader;LeadWithGreed;17",
+          "Execute;Overpower;17",
+          "StonehoofTauren;Momentum;17",
+          "EarthElemental;ObsidianShard;17",
+          "Harpy;InfectiousSwipes;17",
+          "Quilboar;TunnelVision;18",
+          "PlagueFarmer;SplashingPumpkins;17"
+        ],
+        [
+          "CharlgaLeader;SpiritPassage;17",
+          "Chimaera;Leviathan;17",
+          "Quilboar;TunnelVision;18",
+          "Harpy;InfectiousSwipes;17",
+          "EarthElemental;ObsidianShard;17",
+          "SkeletonParty;5Man;17",
+          "WhelpEggs;FlameBurst;17"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;18",
+          "WhelpEggs;FlameBurst;17",
+          "LivingBomb;ChainReaction;17",
+          "WitchDoctor;AmplifyCurse;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "Quilboar;TunnelVision;18",
+          "Shaman;EarthShield;18"
+        ],
+        [
+          "ThaurissanLeader;Hubris;19",
+          "WhelpEggs;FlameBurst;18",
+          "DarkIronMiner;DwarvenAmbition;19",
+          "Ghoul;BoneArmor;18",
+          "EarthElemental;ObsidianShard;17",
+          "Execute;Overpower;18",
+          "Blizzard;ColdSnap;17"
+        ],
+        [
+          "SylvanasLeader;BlackArrow;20",
+          "Ghoul;BoneArmor;18",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "GoblinSapper;RocketBoots;17",
+          "WitchDoctor;AmplifyCurse;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "WhelpEggs;FlameBurst;18"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "43ec10d8-de2e-45e1-a88f-cbe45fd28941"
+  },
+  {
+    "data": {
+      "id": 73505935,
+      "btag": "Hydro",
+      "name": "Hydro",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Sneed_Pose",
+      "skulls": 105,
+      "level": 35,
+      "pvpWins": 79,
+      "leaderA": "ThaurissanLeader",
+      "leaderAWins": 10,
+      "leaderAHonor": 1599,
+      "leaderB": "BaronRivendareLeader",
+      "leaderBWins": 19,
+      "leaderBHonor": 1321,
+      "leaderC": "RendLeader",
+      "leaderCWins": 13,
+      "leaderCHonor": 1054,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;15",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "DefiasBandits;PickLock;19",
+          "Blizzard;ColdSnap;15",
+          "Harpy;InfectiousSwipes;19",
+          "WarsongRaider;RazingFocus;15",
+          "EarthElemental;ObsidianShard;17"
+        ],
+        [
+          "TirionLeader;DivineShield;19",
+          "DefiasBandits;PickLock;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;18",
+          "WarsongRaider;RazingFocus;15",
+          "Harpy;InfectiousSwipes;19",
+          "Pyromancer;Pyroblast;19",
+          "EarthElemental;ObsidianShard;17"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;16",
+          "Harpy;InfectiousSwipes;19",
+          "Quilboar;TunnelVision;18",
+          "EarthElemental;ObsidianShard;17",
+          "Pyromancer;Pyroblast;19",
+          "Blizzard;ColdSnap;15",
+          "WarsongRaider;RazingFocus;15"
+        ],
+        [
+          "GrommashLeader;Bladestorm;16",
+          "Shaman;EarthShield;16",
+          "StonehoofTauren;Momentum;16",
+          "Harpy;InfectiousSwipes;19",
+          "Pyromancer;Pyroblast;19",
+          "EarthElemental;ObsidianShard;17",
+          "DefiasBandits;PickLock;19"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;17",
+          "Drake;EngulfingFlames;16",
+          "Pyromancer;Conflagrate;19",
+          "Harpy;InfectiousSwipes;19",
+          "Quilboar;TunnelVision;18",
+          "MeatWagon;FiletTrebuchet;17",
+          "DefiasBandits;PickLock;19"
+        ],
+        [
+          "BloodmageThalnosLeader;;11",
+          "Ghoul;;10",
+          "Necromancer;JeweledSkulls;13",
+          "Blizzard;ColdSnap;13",
+          "Pyromancer;Pyroblast;14",
+          "EarthElemental;;12",
+          "Harpy;InfectiousSwipes;14"
+        ],
+        [
+          "MaievLeader;;13",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "Worgen;Premeditation;15",
+          "EarthElemental;ObsidianShard;16",
+          "Quilboar;TunnelVision;16",
+          "Harpy;InfectiousSwipes;16",
+          "Pyromancer;Pyroblast;18"
+        ],
+        [
+          "HoggerLeader;HamHock;17",
+          "Harpy;InfectiousSwipes;19",
+          "Quilboar;TunnelVision;18",
+          "DefiasBandits;PickLock;19",
+          "EarthElemental;ObsidianShard;17",
+          "WhelpEggs;FlameBurst;17",
+          "Pyromancer;Pyroblast;19"
+        ],
+        [
+          "CairneLeader;Reincarnation;16",
+          "StonehoofTauren;Momentum;16",
+          "GoblinSapper;;13",
+          "Shaman;EarthShield;16",
+          "PolymorphSpell;GoldenFleece;15",
+          "Harpy;InfectiousSwipes;19",
+          "DarkspearTroll;BigBadVoodoo;15"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;19",
+          "Ghoul;BoneArmor;16",
+          "MeatWagon;FiletTrebuchet;17",
+          "Quilboar;TunnelVision;18",
+          "Pyromancer;Pyroblast;19",
+          "Harpy;TrinketCollectors;19",
+          "Gargoyle;WingBuffet;17"
+        ],
+        [
+          "SneedLeader;LandGrab;18",
+          "DarkspearTroll;BigBadVoodoo;15",
+          "BatRider;EnchantedVials;16",
+          "EarthElemental;ObsidianShard;17",
+          "Pyromancer;Pyroblast;19",
+          "Harpy;InfectiousSwipes;19",
+          "DefiasBandits;PickLock;19"
+        ],
+        [
+          "CharlgaLeader;;11",
+          "AngryChickens;;10",
+          "Quilboar;;12",
+          "Harpy;InfectiousSwipes;14",
+          "Pyromancer;Pyroblast;14",
+          "StonehoofTauren;;12",
+          "EarthElemental;;12"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;15",
+          "Pyromancer;Pyroblast;18",
+          "EarthElemental;ObsidianShard;16",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "Harpy;InfectiousSwipes;16",
+          "DefiasBandits;PickLock;17",
+          "MurlocTidehunters;;13"
+        ],
+        [
+          "ThaurissanLeader;MoirasWit;18",
+          "FireElemental;ImmolationAura;16",
+          "EarthElemental;ObsidianShard;17",
+          "Quilboar;TunnelVision;18",
+          "Huntress;Shadowmeld;19",
+          "Harpy;InfectiousSwipes;19",
+          "GryphonRider;MightyThrow;19"
+        ]
+      ],
+      "lastUpdate": 1715729907
+    },
+    "token": "0341c1a8-ea2e-48b5-9fcc-6ad8ed9d3665"
+  },
+  {
+    "data": {
+      "id": 125020612,
+      "btag": "KasuHaru",
+      "name": "KasuHaru",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Sylvanas_Pose",
+      "skulls": 100,
+      "level": 33,
+      "pvpWins": 149,
+      "leaderA": "SylvanasLeader",
+      "leaderAWins": 40,
+      "leaderAHonor": 3063,
+      "leaderB": "RendLeader",
+      "leaderBWins": 31,
+      "leaderBHonor": 3122,
+      "leaderC": "HoggerLeader",
+      "leaderCWins": 42,
+      "leaderCHonor": 3048,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;16",
+          "Huntress;Shadowmeld;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "Blizzard;;14",
+          "Execute;Bloodthirsty;17",
+          "WhelpEggs;FlameBurst;16",
+          "Quilboar;TunnelVision;16"
+        ],
+        [
+          "TirionLeader;;14",
+          "Huntress;Shadowmeld;18",
+          "DefiasBandits;;14",
+          "Quilboar;TunnelVision;16",
+          "WhelpEggs;FlameBurst;16",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "WitchDoctor;AmplifyCurse;16"
+        ],
+        [
+          "OldMurkEyeLeader;;14",
+          "Chimaera;Leviathan;16",
+          "Quilboar;TunnelVision;16",
+          "EarthElemental;;14",
+          "SkeletonParty;;14",
+          "WhelpEggs;FlameBurst;16",
+          "FaerieDragon;Invisibility;16"
+        ],
+        [
+          "GrommashLeader;MirrorImage;16",
+          "DarkspearTroll;BigBadVoodoo;16",
+          "Shaman;EarthShield;16",
+          "WhelpEggs;FlameBurst;16",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "AngryChickens;FuriousFowl;16",
+          "ChainLightning;;15"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;17",
+          "WhelpEggs;FlameBurst;16",
+          "Pyromancer;Conflagrate;16",
+          "Gargoyle;WingBuffet;16",
+          "Ghoul;;14",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "WitchDoctor;AmplifyCurse;16"
+        ],
+        [
+          "BloodmageThalnosLeader;DrainLife;17",
+          "Ghoul;;14",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "SmokeBombSpell;BandOfThieves;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+          "WhelpEggs;FlameBurst;17",
+          "GoblinSapper;;15"
+        ],
+        [
+          "MaievLeader;;14",
+          "Huntress;Shadowmeld;18",
+          "DefiasBandits;;15",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "Quilboar;TunnelVision;16",
+          "WhelpEggs;FlameBurst;16",
+          "Execute;Bloodthirsty;17"
+        ],
+        [
+          "HoggerLeader;HamHock;17",
+          "Harpy;;15",
+          "Prowler;PredatoryInstincts;17",
+          "Quilboar;TunnelVision;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;17",
+          "Pyromancer;Conflagrate;17",
+          "WhelpEggs;FlameBurst;17"
+        ],
+        [
+          "CairneLeader;Reincarnation;16",
+          "Shaman;EarthShield;16",
+          "WitchDoctor;AmplifyCurse;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "AngryChickens;FuriousFowl;16",
+          "WhelpEggs;FlameBurst;16"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;17",
+          "Ghoul;;14",
+          "Necromancer;;14",
+          "Quilboar;TunnelVision;17",
+          "WhelpEggs;FlameBurst;17",
+          "Huntress;Shadowmeld;18",
+          "DefiasBandits;;15"
+        ],
+        [
+          "SneedLeader;;14",
+          "WitchDoctor;AmplifyCurse;16",
+          "DarkspearTroll;BigBadVoodoo;16",
+          "AngryChickens;FuriousFowl;16",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "WhelpEggs;FlameBurst;16",
+          "Quilboar;TunnelVision;16"
+        ],
+        [
+          "CharlgaLeader;NaturesGrasp;16",
+          "Quilboar;TunnelVision;16",
+          "Vultures;Migration;16",
+          "Harpy;;14",
+          "PolymorphSpell;;14",
+          "WitchDoctor;AmplifyCurse;16",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;16",
+          "Pyromancer;Conflagrate;16",
+          "WhelpEggs;FlameBurst;16",
+          "WitchDoctor;AmplifyCurse;16",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "GoblinSapper;;14",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16"
+        ],
+        [
+          "ThaurissanLeader;Hubris;17",
+          "WhelpEggs;FlameBurst;17",
+          "Pyromancer;Conflagrate;17",
+          "Ghoul;;14",
+          "WitchDoctor;AmplifyCurse;17",
+          "PolymorphSpell;;16",
+          "GoblinSapper;;15"
+        ],
+        [
+          "SylvanasLeader;BlackArrow;16",
+          "Ghoul;;14",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "GoblinSapper;;15",
+          "WhelpEggs;FlameBurst;17",
+          "DarkIronMiner;GoldMine;16",
+          "WitchDoctor;AmplifyCurse;17"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "69050ccf-5072-4134-8a8e-060a6c3bed5a"
+  },
+  {
+    "data": {
+      "id": 304680812,
+      "btag": "elduque7",
+      "name": "elduque7",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_KoboldMech_Pose",
+      "skulls": 131,
+      "level": 39,
+      "pvpWins": 323,
+      "leaderA": "OldMurkEyeLeader",
+      "leaderAWins": 48,
+      "leaderAHonor": 4184,
+      "leaderB": "RendLeader",
+      "leaderBWins": 37,
+      "leaderBHonor": 3155,
+      "leaderC": "MaievLeader",
+      "leaderCWins": 32,
+      "leaderCHonor": 3133,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;18",
+          "DefiasBandits;PickLock;20",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Blizzard;ColdSnap;19",
+          "Quilboar;TunnelVision;21",
+          "FireElemental;ImmolationAura;18",
+          "WhelpEggs;FlameBurst;20"
+        ],
+        [
+          "TirionLeader;DivineShield;21",
+          "DefiasBandits;PickLock;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "Abomination;NoxiousPresence;18",
+          "DarkspearTroll;BigBadVoodoo;21",
+          "Harpy;InfectiousSwipes;19",
+          "WhelpEggs;FlameBurst;21"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+          "Harpy;InfectiousSwipes;19",
+          "Chimaera;Leviathan;18",
+          "Prowler;OnTheProwl;18",
+          "WhelpEggs;FlameBurst;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "Quilboar;TunnelVision;21"
+        ],
+        [
+          "GrommashLeader;SavageStrikes;20",
+          "StonehoofTauren;Pummel;19",
+          "GoblinSapper;RocketBoots;17",
+          "WhelpEggs;FlameBurst;20",
+          "Harpy;InfectiousSwipes;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Quilboar;TunnelVision;21"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;20",
+          "WhelpEggs;FlameBurst;20",
+          "DarkIronMiner;GoldMine;18",
+          "Gargoyle;WingBuffet;18",
+          "Harpy;InfectiousSwipes;19",
+          "DefiasBandits;PickLock;20",
+          "Quilboar;TunnelVision;21"
+        ],
+        [
+          "BloodmageThalnosLeader;DrainLife;18",
+          "Abomination;NoxiousPresence;18",
+          "Gargoyle;WingBuffet;18",
+          "ChainLightning;BrilliantFlash;17",
+          "WhelpEggs;FlameBurst;21",
+          "Quilboar;TunnelVision;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+        ],
+        [
+          "MaievLeader;Remorseless;19",
+          "DefiasBandits;PickLock;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Quilboar;TunnelVision;21",
+          "WhelpEggs;FlameBurst;20",
+          "Chimaera;Leviathan;18",
+          "DarkspearTroll;BigBadVoodoo;21"
+        ],
+        [
+          "HoggerLeader;HamHock;21",
+          "Quilboar;TunnelVision;21",
+          "Harpy;InfectiousSwipes;19",
+          "DefiasBandits;PickLock;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "Pyromancer;Conflagrate;18",
+          "WhelpEggs;FlameBurst;21"
+        ],
+        [
+          "CairneLeader;Reincarnation;21",
+          "StonehoofTauren;Pummel;19",
+          "DarkspearTroll;BigBadVoodoo;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Harpy;InfectiousSwipes;18",
+          "Quilboar;TunnelVision;21",
+          "WhelpEggs;FlameBurst;20"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;21",
+          "Abomination;NoxiousPresence;18",
+          "MeatWagon;;16",
+          "Quilboar;TunnelVision;21",
+          "WhelpEggs;FlameBurst;21",
+          "Harpy;InfectiousSwipes;20",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+        ],
+        [
+          "SneedLeader;LeadWithGreed;18",
+          "StonehoofTauren;Pummel;18",
+          "DarkspearTroll;BigBadVoodoo;20",
+          "Gargoyle;WingBuffet;18",
+          "Quilboar;TunnelVision;20",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "WhelpEggs;FlameBurst;20"
+        ],
+        [
+          "CharlgaLeader;SpiritPassage;17",
+          "Quilboar;TunnelVision;20",
+          "FireElemental;ImmolationAura;18",
+          "Harpy;InfectiousSwipes;17",
+          "WhelpEggs;FlameBurst;20",
+          "Huntress;ElvenMight;17",
+          "DefiasBandits;PickLock;17"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;21",
+          "FireElemental;ImmolationAura;18",
+          "Pyromancer;Conflagrate;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "Shaman;EarthShield;18",
+          "Quilboar;TunnelVision;21",
+          "WhelpEggs;FlameBurst;21"
+        ],
+        [
+          "ThaurissanLeader;Hubris;18",
+          "FireElemental;ImmolationAura;18",
+          "WhelpEggs;FlameBurst;20",
+          "Quilboar;TunnelVision;21",
+          "DarkspearTroll;BigBadVoodoo;20",
+          "Harpy;InfectiousSwipes;18",
+          "DefiasBandits;PickLock;20"
+        ],
+        [
+          "SylvanasLeader;BlackArrow;20",
+          "Necromancer;JeweledSkulls;17",
+          "Abomination;NoxiousPresence;18",
+          "DarkspearTroll;BigBadVoodoo;21",
+          "Harpy;InfectiousSwipes;19",
+          "WhelpEggs;FlameBurst;21",
+          "Quilboar;TunnelVision;21"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "fc6a0caf-b7ec-48b4-bed0-8201756334ad"
+  },
+  {
+    "data": {
+      "id": 51740991,
+      "btag": "Alabit",
+      "name": "Alabit",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Grommash_Pose",
+      "skulls": 140,
+      "level": 36,
+      "pvpWins": 104,
+      "leaderA": "RendLeader",
+      "leaderAWins": 10,
+      "leaderAHonor": 2000,
+      "leaderB": "HoggerLeader",
+      "leaderBWins": 26,
+      "leaderBHonor": 3004,
+      "leaderC": "JainaLeader",
+      "leaderCWins": 21,
+      "leaderCHonor": 3002,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "GryphonRider;MightyThrow;17",
+          "Blizzard;ColdSnap;17",
+          "Harpy;InfectiousSwipes;21",
+          "WhelpEggs;FlameBurst;21",
+          "EarthElemental;ObsidianShard;21"
+        ],
+        [
+          "TirionLeader;DivineShield;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "GryphonRider;MightyThrow;17",
+          "Quilboar;TunnelVision;21",
+          "EarthElemental;ObsidianShard;21",
+          "Pyromancer;Conflagrate;18",
+          "Harpy;InfectiousSwipes;21"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;18",
+          "Quilboar;TunnelVision;21",
+          "Harpy;InfectiousSwipes;21",
+          "EarthElemental;ObsidianShard;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "WhelpEggs;FlameBurst;21",
+          "WitchDoctor;SpiritWard;18"
+        ],
+        [
+          "GrommashLeader;MirrorImage;17",
+          "Execute;Bloodthirsty;21",
+          "DarkspearTroll;BigBadVoodoo;19",
+          "WhelpEggs;FlameBurst;21",
+          "Quilboar;TunnelVision;21",
+          "Harpy;InfectiousSwipes;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;18",
+          "EarthElemental;ObsidianShard;21",
+          "Drake;MotherDrake;18",
+          "Gargoyle;WingBuffet;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "WhelpEggs;FlameBurst;21",
+          "Quilboar;TunnelVision;21"
+        ],
+        [
+          "BloodmageThalnosLeader;Bane;17",
+          "Banshee;WillOfTheNecropolis;18",
+          "Ghoul;BoneArmor;17",
+          "Blizzard;ColdSnap;17",
+          "Quilboar;TunnelVision;21",
+          "Harpy;InfectiousSwipes;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        ],
+        [
+          "MaievLeader;Remorseless;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "GryphonRider;MightyThrow;17",
+          "Quilboar;TunnelVision;21",
+          "WitchDoctor;SpiritWard;18",
+          "EarthElemental;ObsidianShard;21",
+          "Harpy;InfectiousSwipes;21"
+        ],
+        [
+          "HoggerLeader;HamHock;17",
+          "Harpy;InfectiousSwipes;20",
+          "Quilboar;TunnelVision;20",
+          "WitchDoctor;SpiritWard;17",
+          "CheatDeath;;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "EarthElemental;ObsidianShard;18"
+        ],
+        [
+          "CairneLeader;Reincarnation;17",
+          "WitchDoctor;SpiritWard;18",
+          "DarkspearTroll;BigBadVoodoo;19",
+          "Banshee;WillOfTheNecropolis;18",
+          "Quilboar;TunnelVision;21",
+          "WhelpEggs;FlameBurst;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;18",
+          "Banshee;WillOfTheNecropolis;18",
+          "SkeletonParty;RitualOfRime;17",
+          "Quilboar;TunnelVision;21",
+          "Harpy;InfectiousSwipes;21",
+          "WhelpEggs;FlameBurst;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        ],
+        [
+          "SneedLeader;LeadWithGreed;17",
+          "DarkspearTroll;BigBadVoodoo;19",
+          "WitchDoctor;SpiritWard;18",
+          "EarthElemental;ObsidianShard;19",
+          "Quilboar;TunnelVision;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "WhelpEggs;FlameBurst;21"
+        ],
+        [
+          "CharlgaLeader;CavernousMists;17",
+          "Vultures;;14",
+          "Harpy;InfectiousSwipes;21",
+          "AngryChickens;;14",
+          "WhelpEggs;FlameBurst;21",
+          "MurlocTidehunters;SafetyBubble;16",
+          "Quilboar;TunnelVision;21"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;16",
+          "Pyromancer;Conflagrate;17",
+          "WhelpEggs;FlameBurst;20",
+          "WitchDoctor;SpiritWard;17",
+          "DefiasBandits;PickLock;17",
+          "Shaman;EarthShield;17",
+          "Drake;MotherDrake;17"
+        ],
+        [
+          "ThaurissanLeader;Hubris;18",
+          "WhelpEggs;FlameBurst;21",
+          "EarthElemental;ObsidianShard;21",
+          "Quilboar;TunnelVision;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Harpy;InfectiousSwipes;21",
+          "DarkspearTroll;BigBadVoodoo;19"
+        ],
+        [
+          "SylvanasLeader;ForsakenFury;17",
+          "Banshee;WillOfTheNecropolis;18",
+          "WhelpEggs;FlameBurst;21",
+          "DarkspearTroll;BigBadVoodoo;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Harpy;InfectiousSwipes;21",
+          "Quilboar;TunnelVision;21"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "6a11b644-8193-43d8-b93b-d0186368150a"
+  },
+  {
+    "data": {
+      "id": 6382,
+      "btag": "Jermy",
+      "name": "Jermy",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Grommash_Pose",
+      "skulls": 115,
+      "level": 38,
+      "pvpWins": 79,
+      "leaderA": "SylvanasLeader",
+      "leaderAWins": 8,
+      "leaderAHonor": 1266,
+      "leaderB": "SneedLeader",
+      "leaderBWins": 16,
+      "leaderBHonor": 1569,
+      "leaderC": "CharlgaLeader",
+      "leaderCWins": 13,
+      "leaderCHonor": 1308,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Flurry;18",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+          "Huntress;Shadowmeld;20",
+          "Blizzard;ColdSnap;17",
+          "MoltenGiant;ThreateningPresence;18",
+          "Chimaera;FrostShock;19",
+          "SkeletonParty;RitualOfRime;18"
+        ],
+        [
+          "TirionLeader;DivineShield;18",
+          "Huntress;DarnassianSteel;20",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+          "Quilboar;BrambleBurst;18",
+          "FaerieDragon;;16",
+          "WhelpEggs;;16",
+          "Pyromancer;Pyroblast;18"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;17",
+          "Harpy;InfectiousSwipes;19",
+          "Chimaera;FrostShock;19",
+          "MoltenGiant;ThreateningPresence;18",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+          "Spiderlings;Envenom;19",
+          "FaerieDragon;;16"
+        ],
+        [
+          "GrommashLeader;Bladestorm;17",
+          "OgreMage;FrostfireBolt;19",
+          "DarkspearTroll;Headhunting;17",
+          "Harpy;InfectiousSwipes;19",
+          "Chimaera;FrostShock;19",
+          "Huntress;Shadowmeld;20",
+          "Flamewaker;Backdraft;19"
+        ],
+        [
+          "RendLeader;FlamingSoul;19",
+          "MoltenGiant;ThreateningPresence;18",
+          "Flamewaker;HeatStroke;19",
+          "FaerieDragon;;17",
+          "Spiderlings;Envenom;19",
+          "DarkIronMiner;DwarvenAmbition;17",
+          "Mountaineer;MendPets;18"
+        ],
+        [
+          "BloodmageThalnosLeader;Bane;17",
+          "Necromancer;CultOfTheDamned;20",
+          "SkeletonParty;RitualOfRime;17",
+          "HolyNova;;17",
+          "ArcaneBlast;;17",
+          "MurlocTidehunters;SafetyBubble;17",
+          "MoltenGiant;ThreateningPresence;18"
+        ],
+        [
+          "MaievLeader;Shadowstep;17",
+          "Huntress;Shadowmeld;20",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+          "SkeletonParty;RitualOfRime;17",
+          "DefiasBandits;LastResort;17",
+          "MoltenGiant;ThreateningPresence;18",
+          "Chimaera;FrostShock;19"
+        ],
+        [
+          "HoggerLeader;HamHock;17",
+          "Quilboar;BrambleBurst;17",
+          "Harpy;InfectiousSwipes;19",
+          "GryphonRider;OdynsFury;17",
+          "Chimaera;FrostShock;19",
+          "Huntress;Shadowmeld;19",
+          "S.A.F.E.PilotFlyingMachine;Muttonizer;20"
+        ],
+        [
+          "CairneLeader;Reincarnation;17",
+          "ChainLightning;;16",
+          "OgreMage;Avarice;19",
+          "Pyromancer;Pyroblast;17",
+          "FaerieDragon;;16",
+          "Harpy;InfectiousSwipes;19",
+          "EarthElemental;ObsidianShard;17"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;19",
+          "Necromancer;CultOfTheDamned;20",
+          "Gargoyle;WingBuffet;18",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+          "Harpy;InfectiousSwipes;19",
+          "MoltenGiant;ThreateningPresence;18",
+          "Blizzard;ColdSnap;18"
+        ],
+        [
+          "SneedLeader;LandGrab;17",
+          "OgreMage;Avarice;19",
+          "ChainLightning;;16",
+          "MoltenGiant;ThreateningPresence;18",
+          "Huntress;DarnassianSteel;20",
+          "Harpy;InfectiousSwipes;19",
+          "DarkIronMiner;DwarvenAmbition;17"
+        ],
+        [
+          "CharlgaLeader;SpiritPassage;17",
+          "Raptors;StrengthInNumbers;17",
+          "Harpy;InfectiousSwipes;19",
+          "Huntress;DarnassianSteel;20",
+          "WitchDoctor;SpiritWard;18",
+          "MoltenGiant;ThreateningPresence;18",
+          "S.A.F.E.PilotFlyingMachine;Muttonizer;20"
+        ],
+        [
+          "DrakkisathLeader;PiercingBlows;18",
+          "MoltenGiant;ThreateningPresence;18",
+          "CoreHounds;FieryRebirth;19",
+          "Chimaera;Leviathan;19",
+          "Huntress;Shadowmeld;20",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;20",
+          "Pyromancer;Pyroblast;17"
+        ],
+        [
+          "ThaurissanLeader;Hubris;18",
+          "WhelpEggs;;16",
+          "Drake;EngulfingFlames;18",
+          "Quilboar;BrambleBurst;18",
+          "Harpy;InfectiousSwipes;19",
+          "Huntress;DarnassianSteel;20",
+          "MoltenGiant;ThreateningPresence;18"
+        ],
+        [
+          "SylvanasLeader;BlackArrow;19",
+          "Necromancer;JeweledSkulls;20",
+          "Gargoyle;WingBuffet;18",
+          "WitchDoctor;SpiritWard;18",
+          "Harpy;InfectiousSwipes;19",
+          "MoltenGiant;ThreateningPresence;18",
+          "Huntress;Shadowmeld;20"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "620dd386-ff8f-40ce-aa82-13c17eb81aa1"
+  },
+  {
+    "data": {
+      "id": 80368787,
+      "btag": "Lux",
+      "name": "Lux",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "CombatHUD_Tex_Player_Default",
+      "skulls": 98,
+      "level": 37,
+      "pvpWins": 149,
+      "leaderA": "RendLeader",
+      "leaderAWins": 18,
+      "leaderAHonor": 2582,
+      "leaderB": "SylvanasLeader",
+      "leaderBWins": 18,
+      "leaderBHonor": 2471,
+      "leaderC": "CairneLeader",
+      "leaderCWins": 20,
+      "leaderCHonor": 2680,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;;9",
+          "Worgen;Premeditation;12",
+          "Quilboar;;9",
+          "Execute;;11",
+          "MurlocTidehunters;;9",
+          "Pyromancer;;9",
+          "Harpy;;10"
+        ],
+        [
+          "TirionLeader;ByTheLight;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+          "Footmen;ShieldBash;18",
+          "Quilboar;TunnelVision;20",
+          "GryphonRider;MightyThrow;17",
+          "WhelpEggs;FlameBurst;20",
+          "Huntress;Shadowmeld;20"
+        ],
+        [
+          "OldMurkEyeLeader;ElectricEels;17",
+          "Banshee;WillOfTheNecropolis;18",
+          "Harpy;InfectiousSwipes;20",
+          "Pyromancer;Conflagrate;17",
+          "WarsongRaider;SunderArmor;16",
+          "WhelpEggs;FlameBurst;20",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20"
+        ],
+        [
+          "GrommashLeader;MirrorImage;17",
+          "StonehoofTauren;Momentum;16",
+          "Shaman;EarthShield;17",
+          "Harpy;InfectiousSwipes;19",
+          "Quilboar;TunnelVision;20",
+          "WarsongGrunts;;14",
+          "DarkspearTroll;BigBadVoodoo;18"
+        ],
+        [
+          "RendLeader;FlamingSoul;17",
+          "WhelpEggs;FlameBurst;20",
+          "LivingBomb;;15",
+          "Harpy;InfectiousSwipes;20",
+          "Worgen;Premeditation;17",
+          "Gargoyle;WingBuffet;17",
+          "ChainLightning;;15"
+        ],
+        [
+          "BloodmageThalnosLeader;DrainLife;17",
+          "SkeletonParty;5Man;16",
+          "Necromancer;JeweledSkulls;17",
+          "ArcaneBlast;;15",
+          "Gargoyle;WingBuffet;17",
+          "SkeletonWarrior;Exhume;17",
+          "Huntress;Shadowmeld;19"
+        ],
+        [
+          "MaievLeader;;10",
+          "Worgen;Premeditation;12",
+          "Huntress;;11",
+          "DarkIronMiner;;11",
+          "MeatWagon;GreasedGears;13",
+          "Abomination;NoxiousPresence;13",
+          "Execute;;11"
+        ],
+        [
+          "HoggerLeader;HamHock;16",
+          "Footmen;ShieldBash;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+          "HarvestGolem;;13",
+          "Huntress;Shadowmeld;19",
+          "Pyromancer;Conflagrate;17",
+          "DarkspearTroll;BigBadVoodoo;17"
+        ],
+        [
+          "CairneLeader;Reincarnation;18",
+          "WitchDoctor;AmplifyCurse;17",
+          "WarsongGrunts;;14",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "GoblinSapper;RocketBoots;17",
+          "Quilboar;TunnelVision;20",
+          "BatRider;FierySurplus;19"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;20",
+          "Abomination;NoxiousPresence;22",
+          "Ghoul;;15",
+          "Quilboar;TunnelVision;20",
+          "PlagueFarmer;PartingGift;16",
+          "Shaman;EarthShield;17",
+          "DarkspearTroll;BigBadVoodoo;18"
+        ],
+        [
+          "SneedLeader;MineIsMoneyFriend;16",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "Execute;Bloodthirsty;20",
+          "Gargoyle;WingBuffet;17",
+          "Harpy;InfectiousSwipes;20",
+          "OgreMage;Avarice;17",
+          "WhelpEggs;FlameBurst;20"
+        ],
+        [
+          "CharlgaLeader;SpiritPassage;19",
+          "WarsongRaider;SunderArmor;16",
+          "Harpy;InfectiousSwipes;20",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+          "Pyromancer;Conflagrate;17",
+          "Banshee;WillOfTheNecropolis;18",
+          "WhelpEggs;FlameBurst;20"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;16",
+          "WhelpEggs;FlameBurst;20",
+          "Banshee;WillOfTheNecropolis;18",
+          "Execute;Bloodthirsty;20",
+          "EarthElemental;ObsidianShard;16",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;19",
+          "Huntress;Shadowmeld;19"
+        ],
+        [
+          "ThaurissanLeader;Incinerate;21",
+          "WhelpEggs;FlameBurst;20",
+          "Pyromancer;Conflagrate;17",
+          "Banshee;WillOfTheNecropolis;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+          "Harpy;InfectiousSwipes;20",
+          "WarsongRaider;SunderArmor;16"
+        ],
+        [
+          "SylvanasLeader;BlackArrow;19",
+          "Gargoyle;WingBuffet;17",
+          "Abomination;NoxiousPresence;22",
+          "BatRider;FierySurplus;19",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;20",
+          "Harpy;InfectiousSwipes;20"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "dc46c0ee-1197-465d-9fdb-5a20016e9594"
+  },
+  {
+    "data": {
+      "id": 1547705,
+      "btag": "Kurhan",
+      "name": "Kurhan",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Sneed_Pose",
+      "skulls": 115,
+      "level": 38,
+      "pvpWins": 267,
+      "leaderA": "OldMurkEyeLeader",
+      "leaderAWins": 23,
+      "leaderAHonor": 3557,
+      "leaderB": "HoggerLeader",
+      "leaderBWins": 40,
+      "leaderBHonor": 3571,
+      "leaderC": "DrakkisathLeader",
+      "leaderCWins": 24,
+      "leaderCHonor": 3547,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;18",
+          "ArcaneBlast;Amplification;18",
+          "GryphonRider;AirDrop;20",
+          "Execute;Bloodthirsty;18",
+          "Prowler;OnTheProwl;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "WhelpEggs;FlameBurst;19"
+        ],
+        [
+          "TirionLeader;DivineShield;21",
+          "Huntress;ElvenMight;19",
+          "DefiasBandits;PickLock;18",
+          "FireElemental;ImmolationAura;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Pyromancer;Conflagrate;21",
+          "MurlocTidehunters;SafetyBubble;18"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+          "Harpy;InfectiousSwipes;20",
+          "MurlocTidehunters;SafetyBubble;18",
+          "FireElemental;ImmolationAura;21",
+          "Pyromancer;Conflagrate;21",
+          "GoblinSapper;RocketBoots;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        ],
+        [
+          "GrommashLeader;SavageStrikes;17",
+          "StonehoofTauren;Momentum;19",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "DefiasBandits;PickLock;18",
+          "Harpy;InfectiousSwipes;20",
+          "Pyromancer;Conflagrate;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;17",
+          "WhelpEggs;FlameBurst;19",
+          "Drake;MotherDrake;17",
+          "Harpy;InfectiousSwipes;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Chimaera;CorrosiveBreath;19",
+          "GoblinSapper;RocketBoots;19"
+        ],
+        [
+          "BloodmageThalnosLeader;DrainLife;18",
+          "Ghoul;BoneArmor;17",
+          "Gargoyle;WingBuffet;18",
+          "ArcaneBlast;Amplification;18",
+          "Shaman;EarthShield;21",
+          "GryphonRider;AirDrop;20",
+          "Blizzard;ColdSnap;18"
+        ],
+        [
+          "MaievLeader;Remorseless;18",
+          "Worgen;Premeditation;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "WhelpEggs;FlameBurst;19",
+          "Harpy;InfectiousSwipes;20",
+          "EarthElemental;ObsidianShard;17",
+          "Quilboar;TunnelVision;19"
+        ],
+        [
+          "HoggerLeader;HamHock;17",
+          "Harpy;InfectiousSwipes;20",
+          "MurlocTidehunters;SafetyBubble;18",
+          "DefiasBandits;PickLock;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "GoblinSapper;RocketBoots;19",
+          "CheatDeath;Vampirism;17"
+        ],
+        [
+          "CairneLeader;;17",
+          "Shaman;EarthShield;21",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "Pyromancer;Conflagrate;21",
+          "FireElemental;ImmolationAura;21",
+          "WhelpEggs;FlameBurst;18",
+          "EarthElemental;ObsidianShard;17"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;17",
+          "Gargoyle;WingBuffet;18",
+          "PlagueFarmer;SplashingPumpkins;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "WhelpEggs;FlameBurst;19",
+          "Harpy;InfectiousSwipes;20",
+          "Prowler;OnTheProwl;19"
+        ],
+        [
+          "SneedLeader;MineIsMoneyFriend;19",
+          "StonehoofTauren;Momentum;19",
+          "BatRider;EnchantedVials;19",
+          "GoblinSapper;RocketBoots;19",
+          "Pyromancer;Conflagrate;21",
+          "WhelpEggs;FlameBurst;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+        ],
+        [
+          "CharlgaLeader;CavernousMists;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21",
+          "Pyromancer;Conflagrate;21",
+          "GoblinSapper;RocketBoots;19",
+          "WhelpEggs;FlameBurst;19",
+          "StonehoofTauren;Momentum;19",
+          "FireElemental;ImmolationAura;21"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;17",
+          "WhelpEggs;FlameBurst;19",
+          "Pyromancer;Conflagrate;21",
+          "Blizzard;ColdSnap;18",
+          "GoblinSapper;RocketBoots;19",
+          "Shaman;EarthShield;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;21"
+        ],
+        [
+          "ThaurissanLeader;Hubris;17",
+          "FireElemental;ImmolationAura;21",
+          "EarthElemental;ObsidianShard;17",
+          "StonehoofTauren;Momentum;19",
+          "Gargoyle;WingBuffet;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "DarkspearTroll;BigBadVoodoo;18"
+        ],
+        [
+          "SylvanasLeader;BlackArrow;17",
+          "PlagueFarmer;SplashingPumpkins;18",
+          "Gargoyle;WingBuffet;18",
+          "DarkspearTroll;BigBadVoodoo;18",
+          "FireElemental;ImmolationAura;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "PolymorphSpell;GoldenFleece;17"
+        ]
+      ],
+      "lastUpdate": 1715729907
+    },
+    "token": "28574560-599a-433e-ad8e-3e2ad25ed8ab"
+  },
+  {
+    "data": {
+      "id": 465135,
+      "btag": "Trif",
+      "name": "Trif",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Cairne_Pose",
+      "skulls": 115,
+      "level": 40,
+      "pvpWins": 201,
+      "leaderA": "CairneLeader",
+      "leaderAWins": 90,
+      "leaderAHonor": 4029,
+      "leaderB": "BaronRivendareLeader",
+      "leaderBWins": 32,
+      "leaderBHonor": 3044,
+      "leaderC": "HoggerLeader",
+      "leaderCWins": 26,
+      "leaderCHonor": 3183,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Flurry;19",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "StonehoofTauren;Momentum;24",
+          "ChainLightning;BrilliantFlash;21",
+          "DarkspearTroll;BigBadVoodoo;23",
+          "OgreMage;FrostfireBolt;23",
+          "WarsongRaider;SunderArmor;21"
+        ],
+        [
+          "TirionLeader;DivineShield;17",
+          "GryphonRider;OdynsFury;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "Footmen;Fortification;17",
+          "HolyNova;;17",
+          "ChainLightning;BrilliantFlash;21",
+          "DarkIronMiner;GoldMine;18"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+          "Prowler;PredatoryInstincts;19",
+          "GnollBrute;Rabid;18",
+          "StonehoofTauren;Momentum;24",
+          "Quilboar;BrambleBurst;20",
+          "ChainLightning;BrilliantFlash;21",
+          "Harpy;InfectiousSwipes;20"
+        ],
+        [
+          "GrommashLeader;;16",
+          "OgreMage;FrostfireBolt;21",
+          "DarkspearTroll;BigBadVoodoo;23",
+          "StonehoofTauren;Momentum;24",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "ChainLightning;BrilliantFlash;21",
+          "Shaman;EarthShield;21"
+        ],
+        [
+          "RendLeader;;17",
+          "WarsongRaider;SunderArmor;21",
+          "StonehoofTauren;Momentum;24",
+          "ChainLightning;BrilliantFlash;21",
+          "DarkspearTroll;BigBadVoodoo;23",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "OgreMage;FrostfireBolt;23"
+        ],
+        [
+          "BloodmageThalnosLeader;Bane;17",
+          "OgreMage;FrostfireBolt;21",
+          "DarkspearTroll;BigBadVoodoo;23",
+          "ChainLightning;BrilliantFlash;21",
+          "StonehoofTauren;Momentum;24",
+          "WarsongRaider;SunderArmor;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
+        ],
+        [
+          "MaievLeader;;17",
+          "Worgen;;17",
+          "DefiasBandits;PickLock;18",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "Blizzard;ColdSnap;18",
+          "Quilboar;BrambleBurst;20",
+          "GryphonRider;OdynsFury;19"
+        ],
+        [
+          "HoggerLeader;;20",
+          "Quilboar;BrambleBurst;20",
+          "Prowler;PredatoryInstincts;18",
+          "GnollBrute;Rabid;18",
+          "Harpy;InfectiousSwipes;20",
+          "ChainLightning;BrilliantFlash;21",
+          "DarkspearTroll;BigBadVoodoo;23"
+        ],
+        [
+          "CairneLeader;Aftershock;23",
+          "StonehoofTauren;Momentum;24",
+          "DarkspearTroll;BigBadVoodoo;23",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "OgreMage;FrostfireBolt;23",
+          "Shaman;EarthShield;21",
+          "ChainLightning;BrilliantFlash;21"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;18",
+          "DarkspearTroll;BigBadVoodoo;23",
+          "Ghoul;;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "DarkIronMiner;GoldMine;18",
+          "StonehoofTauren;Momentum;24",
+          "ChainLightning;BrilliantFlash;21"
+        ],
+        [
+          "SneedLeader;LeadWithGreed;19",
+          "StonehoofTauren;Momentum;24",
+          "OgreMage;FrostfireBolt;23",
+          "WarsongRaider;SunderArmor;21",
+          "DarkspearTroll;BigBadVoodoo;23",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "ChainLightning;BrilliantFlash;21"
+        ],
+        [
+          "CharlgaLeader;;14",
+          "StonehoofTauren;Momentum;20",
+          "DarkspearTroll;BigBadVoodoo;20",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22",
+          "OgreMage;FrostfireBolt;20",
+          "WarsongRaider;SunderArmor;20",
+          "ChainLightning;BrilliantFlash;20"
+        ],
+        [
+          "DrakkisathLeader;PiercingBlows;21",
+          "FireElemental;ImmolationAura;20",
+          "EarthElemental;ObsidianShard;18",
+          "OgreMage;FrostfireBolt;23",
+          "ChainLightning;BrilliantFlash;21",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23",
+          "DarkspearTroll;BigBadVoodoo;23"
+        ],
+        [
+          "ThaurissanLeader;;16",
+          "OgreMage;FrostfireBolt;23",
+          "ChainLightning;BrilliantFlash;21",
+          "StonehoofTauren;Momentum;24",
+          "WarsongRaider;SunderArmor;21",
+          "DarkspearTroll;BigBadVoodoo;23",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;23"
+        ],
+        [
+          "SylvanasLeader;;14",
+          "OgreMage;FrostfireBolt;21",
+          "DarkspearTroll;BigBadVoodoo;21",
+          "StonehoofTauren;Momentum;20",
+          "ChainLightning;BrilliantFlash;20",
+          "WarsongRaider;SunderArmor;20",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;22"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "22e51803-ab23-48e3-8932-c0f90aec3398"
+  },
+  {
+    "data": {
+      "id": 52454502,
+      "btag": "TFrogCatcher",
+      "name": "TFrogCatcher",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_Tirion_Pose",
+      "skulls": 105,
+      "level": 36,
+      "pvpWins": 117,
+      "leaderA": "CairneLeader",
+      "leaderAWins": 17,
+      "leaderAHonor": 2812,
+      "leaderB": "RendLeader",
+      "leaderBWins": 14,
+      "leaderBHonor": 2395,
+      "leaderC": "HoggerLeader",
+      "leaderCWins": 22,
+      "leaderCHonor": 2504,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Flurry;17",
+          "Flamewaker;HeatStroke;21",
+          "Mountaineer;MendPets;17",
+          "HolyNova;Renew;16",
+          "WarsongRaider;;17",
+          "DarkIronMiner;DarkIronArmaments;16",
+          "ArcaneBlast;Amplification;16"
+        ],
+        [
+          "TirionLeader;ByTheLight;19",
+          "Footmen;Fortification;17",
+          "DefiasBandits;PickLock;16",
+          "WarsongRaider;;17",
+          "Worgen;LoneWolf;17",
+          "Pyromancer;Pyroblast;17",
+          "MurlocTidehunters;CarefulAim;16"
+        ],
+        [
+          "OldMurkEyeLeader;ElectricEels;16",
+          "Prowler;PredatoryInstincts;19",
+          "MurlocTidehunters;CarefulAim;16",
+          "Gargoyle;AerialSuperiority;19",
+          "Pyromancer;Pyroblast;17",
+          "Harpy;TalonDive;18",
+          "Quilboar;;14"
+        ],
+        [
+          "GrommashLeader;MirrorImage;16",
+          "BatRider;EnchantedVials;18",
+          "DarkspearTroll;BigBadVoodoo;17",
+          "Harpy;TalonDive;17",
+          "Worgen;LoneWolf;16",
+          "Flamewaker;HeatStroke;21",
+          "Prowler;PredatoryInstincts;19"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;20",
+          "Flamewaker;HeatStroke;21",
+          "Drake;EngulfingFlames;17",
+          "GryphonRider;MightyThrow;17",
+          "WarsongRaider;;17",
+          "Pyromancer;Pyroblast;17",
+          "SkeletonWarrior;QuestingBuddies;17"
+        ],
+        [
+          "BloodmageThalnosLeader;DrainLife;17",
+          "DarkIronMiner;DarkIronArmaments;16",
+          "Abomination;NoxiousPresence;16",
+          "ArcaneBlast;Amplification;17",
+          "HolyNova;Renew;17",
+          "ChainLightning;BrilliantFlash;19",
+          "Shaman;EarthShield;17"
+        ],
+        [
+          "MaievLeader;Shadowstep;19",
+          "Worgen;LoneWolf;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "SkeletonWarrior;QuestingBuddies;17",
+          "WarsongRaider;;17",
+          "DarkIronMiner;DarkIronArmaments;16",
+          "WhelpEggs;Rookery;16"
+        ],
+        [
+          "HoggerLeader;HamHock;19",
+          "Prowler;PredatoryInstincts;19",
+          "Harpy;TalonDive;17",
+          "DefiasBandits;PickLock;16",
+          "BatRider;EnchantedVials;19",
+          "DarkspearTroll;BigBadVoodoo;17",
+          "Worgen;LoneWolf;17"
+        ],
+        [
+          "CairneLeader;Reincarnation;19",
+          "BatRider;EnchantedVials;19",
+          "DarkspearTroll;BigBadVoodoo;17",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;16",
+          "Gargoyle;WingBuffet;19",
+          "WarsongRaider;;17",
+          "Flamewaker;HeatStroke;21"
+        ],
+        [
+          "BaronRivendareLeader;DeathPact;17",
+          "Necromancer;JeweledSkulls;18",
+          "Gargoyle;AerialSuperiority;19",
+          "Worgen;LoneWolf;17",
+          "Harpy;TalonDive;20",
+          "WarsongRaider;;17",
+          "Flamewaker;HeatStroke;21"
+        ],
+        [
+          "SneedLeader;MineIsMoneyFriend;16",
+          "BatRider;EnchantedVials;19",
+          "DarkspearTroll;BigBadVoodoo;17",
+          "Gargoyle;AerialSuperiority;19",
+          "Flamewaker;HeatStroke;21",
+          "WarsongRaider;;17",
+          "EarthElemental;;14"
+        ],
+        [
+          "CharlgaLeader;NaturesGrasp;17",
+          "Prowler;PredatoryInstincts;19",
+          "Flamewaker;HeatStroke;21",
+          "MurlocTidehunters;CarefulAim;16",
+          "SkeletonParty;RitualOfRime;16",
+          "FaerieDragon;PhaseShift;21",
+          "Pyromancer;Pyroblast;17"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;16",
+          "FireElemental;FanTheFlames;16",
+          "Flamewaker;Backdraft;21",
+          "Drake;EngulfingFlames;17",
+          "Firehammer;HeightenedRage;17",
+          "BatRider;EnchantedVials;19",
+          "Pyromancer;Pyroblast;17"
+        ],
+        [
+          "ThaurissanLeader;Hubris;17",
+          "DarkIronMiner;DarkIronArmaments;16",
+          "CoreHounds;;15",
+          "Prowler;PredatoryInstincts;19",
+          "Gargoyle;AerialSuperiority;19",
+          "WarsongRaider;;17",
+          "DarkspearTroll;BigBadVoodoo;17"
+        ],
+        [
+          "SylvanasLeader;ForsakenFury;17",
+          "PlagueFarmer;Virulence;16",
+          "Ghoul;BoneArmor;16",
+          "WarsongRaider;;17",
+          "SkeletonWarrior;QuestingBuddies;17",
+          "Gargoyle;AerialSuperiority;19",
+          "Necromancer;BreathOfTheDying;18"
+        ]
+      ],
+      "lastUpdate": 1715729907
+    },
+    "token": "e6db6787-fb9a-4cb1-aca8-24b87e674fe3"
+  },
+  {
+    "data": {
+      "id": 65321018,
+      "btag": "tommysTV",
+      "name": "tommysTV",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_DarkmoonFaire_Eyes",
+      "skulls": 150,
+      "level": 51,
+      "pvpWins": 994,
+      "leaderA": "OldMurkEyeLeader",
+      "leaderAWins": 121,
+      "leaderAHonor": 4358,
+      "leaderB": "DrakkisathLeader",
+      "leaderBWins": 64,
+      "leaderBHonor": 4499,
+      "leaderC": "MaievLeader",
+      "leaderCWins": 95,
+      "leaderCHonor": 4499,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Clearcasting;25",
+          "DefiasBandits;PickLock;25",
+          "Blizzard;ColdSnap;25",
+          "Execute;Bloodthirsty;22",
+          "GryphonRider;MightyThrow;25",
+          "EarthElemental;ReadyToRumble;25",
+          "PolymorphSpell;GoldenFleece;24"
+        ],
+        [
+          "TirionLeader;DivineShield;25",
+          "DefiasBandits;PickLock;25",
+          "GryphonRider;OdynsFury;25",
+          "Quilboar;TunnelVision;25",
+          "FaerieDragon;FaeBlessing;20",
+          "DarkIronMiner;GoldMine;24",
+          "WhelpEggs;FlameBurst;26"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;25",
+          "Quilboar;TunnelVision;25",
+          "Harpy;InfectiousSwipes;25",
+          "WarsongRaider;RazingFocus;25",
+          "DarkIronMiner;GoldMine;24",
+          "ChainLightning;BrilliantFlash;23",
+          "Vultures;TendonRip;24"
+        ],
+        [
+          "GrommashLeader;MirrorImage;23",
+          "DarkspearTroll;BigBadVoodoo;25",
+          "ChainLightning;BrilliantFlash;23",
+          "WhelpEggs;FlameBurst;26",
+          "Huntress;Shadowmeld;25",
+          "DefiasBandits;PickLock;25",
+          "DarkIronMiner;GoldMine;24"
+        ],
+        [
+          "RendLeader;ScaleAndSteel;26",
+          "DarkIronMiner;GoldMine;24",
+          "WhelpEggs;FlameBurst;26",
+          "FaerieDragon;FaeBlessing;22",
+          "Gargoyle;AerialSuperiority;25",
+          "Harpy;TrinketCollectors;25",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25"
+        ],
+        [
+          "BloodmageThalnosLeader;Dominance;25",
+          "Necromancer;CultOfTheDamned;25",
+          "CheatDeath;Vampirism;22",
+          "ArcaneBlast;Torrent;25",
+          "Blizzard;ColdSnap;24",
+          "DarkIronMiner;GoldMine;24",
+          "WhelpEggs;FlameBurst;26"
+        ],
+        [
+          "MaievLeader;Shadowstep;25",
+          "GryphonRider;MightyThrow;25",
+          "S.A.F.E.PilotFlyingMachine;GnomishCloakingDevice;25",
+          "Quilboar;TunnelVision;25",
+          "DarkIronMiner;GoldMine;24",
+          "WhelpEggs;FlameBurst;26",
+          "WarsongRaider;RazingFocus;25"
+        ],
+        [
+          "HoggerLeader;HamHock;26",
+          "Prowler;OnTheProwl;25",
+          "PolymorphSpell;GoldenFleece;24",
+          "DarkIronMiner;GoldMine;24",
+          "Quilboar;TunnelVision;25",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+          "Vultures;TendonRip;24"
+        ],
+        [
+          "CairneLeader;Plainsrunning;25",
+          "DarkspearTroll;BigBadVoodoo;25",
+          "WarsongRaider;RazingFocus;25",
+          "WitchDoctor;SpiritWard;25",
+          "ChainLightning;BrilliantFlash;23",
+          "WhelpEggs;FlameBurst;26",
+          "Quilboar;TunnelVision;25"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;26",
+          "Gargoyle;AerialSuperiority;25",
+          "Necromancer;CultOfTheDamned;25",
+          "DarkIronMiner;GoldMine;24",
+          "Blizzard;ColdSnap;24",
+          "GryphonRider;MightyThrow;25",
+          "ChainLightning;BrilliantFlash;23"
+        ],
+        [
+          "SneedLeader;MineIsMoneyFriend;26",
+          "GoblinSapper;RocketBoots;24",
+          "DarkspearTroll;BigBadVoodoo;25",
+          "WarsongRaider;Saboteur;25",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+          "DarkIronMiner;GoldMine;24",
+          "WhelpEggs;FlameBurst;26"
+        ],
+        [
+          "CharlgaLeader;CavernousMists;23",
+          "Vultures;TendonRip;24",
+          "Quilboar;TunnelVision;25",
+          "MurlocTidehunters;SafetyBubble;23",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;25",
+          "WhelpEggs;FlameBurst;26",
+          "GryphonRider;MightyThrow;25"
+        ],
+        [
+          "DrakkisathLeader;ChromaticScales;25",
+          "Pyromancer;Conflagrate;25",
+          "Drake;MotherDrake;25",
+          "Shaman;EarthShield;25",
+          "WitchDoctor;AmplifyCurse;25",
+          "DefiasBandits;PickLock;25",
+          "OgreMage;Avarice;25"
+        ],
+        [
+          "ThaurissanLeader;Hubris;25",
+          "WhelpEggs;FlameBurst;26",
+          "DarkIronMiner;GoldMine;24",
+          "WarsongRaider;RazingFocus;25",
+          "GryphonRider;MightyThrow;25",
+          "Necromancer;CultOfTheDamned;25",
+          "S.A.F.E.PilotFlyingMachine;CominInHot;25"
+        ],
+        [
+          "SylvanasLeader;ForsakenFury;25",
+          "Gargoyle;WingBuffet;25",
+          "Necromancer;CultOfTheDamned;25",
+          "DarkspearTroll;BigBadVoodoo;25",
+          "ChainLightning;BrilliantFlash;23",
+          "DarkIronMiner;GoldMine;24",
+          "Vultures;TendonRip;24"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "f7f161b4-4301-4237-915b-47a93157ea2e"
+  },
+  {
+    "data": {
+      "id": 881911616,
+      "btag": "SnarkyGoblin",
+      "name": "SnarkyGoblin",
+      "guildId": null,
+      "guildName": null,
+      "avatar": "Indicator_DarkmoonFaire_Eyes",
+      "skulls": 80,
+      "level": 35,
+      "pvpWins": 70,
+      "leaderA": "GrommashLeader",
+      "leaderAWins": 19,
+      "leaderAHonor": 2784,
+      "leaderB": "BloodmageThalnosLeader",
+      "leaderBWins": 20,
+      "leaderBHonor": 2992,
+      "leaderC": "TirionLeader",
+      "leaderCWins": 16,
+      "leaderCHonor": 2220,
+      "socials": null,
+      "armies": [
+        [
+          "JainaLeader;Flurry;18",
+          "Worgen;Premeditation;18",
+          "ChainLightning;Reverberation;14",
+          "Execute;Overpower;16",
+          "Pyromancer;Conflagrate;19",
+          "Quilboar;Bristleback;17",
+          "FaerieDragon;FaeBlessing;19"
+        ],
+        [
+          "TirionLeader;Consecrate;19",
+          "Harpy;TrinketCollectors;20",
+          "Worgen;Premeditation;19",
+          "Execute;Overpower;21",
+          "Pyromancer;Conflagrate;20",
+          "WitchDoctor;SpiritWard;21",
+          "FaerieDragon;FaeBlessing;21"
+        ],
+        [
+          "OldMurkEyeLeader;MarathonOfTheMurlocs;20",
+          "Prowler;PackLeader;20",
+          "Harpy;TrinketCollectors;19",
+          "Quilboar;Bristleback;20",
+          "Vultures;Migration;14",
+          "WitchDoctor;SpiritWard;21",
+          "Pyromancer;Conflagrate;20"
+        ],
+        [
+          "GrommashLeader;SavageStrikes;19",
+          "WitchDoctor;SpiritWard;21",
+          "Shaman;EarthShield;20",
+          "Harpy;TrinketCollectors;19",
+          "Gargoyle;AerialSuperiority;19",
+          "Pyromancer;Conflagrate;20",
+          "FaerieDragon;FaeBlessing;20"
+        ],
+        [
+          "RendLeader;FlamingSoul;16",
+          "Drake;Roost;17",
+          "Pyromancer;Conflagrate;20",
+          "Harpy;TrinketCollectors;19",
+          "WhelpEggs;Rookery;16",
+          "WitchDoctor;SpiritWard;21",
+          "FaerieDragon;FaeBlessing;20"
+        ],
+        [
+          "BloodmageThalnosLeader;DrainLife;20",
+          "Ghoul;Ravenous;16",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "Execute;Overpower;21",
+          "Pyromancer;Conflagrate;20",
+          "WitchDoctor;SpiritWard;21",
+          "ArcaneBlast;;14"
+        ],
+        [
+          "MaievLeader;Remorseless;20",
+          "DefiasBandits;DeadlyPoison;18",
+          "Worgen;Premeditation;19",
+          "Quilboar;Bristleback;20",
+          "EarthElemental;ShrapnelBlast;15",
+          "Harpy;InfectiousSwipes;19",
+          "SkeletonParty;RitualOfRime;16"
+        ],
+        [
+          "HoggerLeader;SpoiledMeat;14",
+          "Prowler;PredatoryInstincts;19",
+          "Harpy;TrinketCollectors;18",
+          "WitchDoctor;SpiritWard;20",
+          "Pyromancer;Conflagrate;18",
+          "FaerieDragon;FaeBlessing;18",
+          "Quilboar;Bristleback;16"
+        ],
+        [
+          "CairneLeader;Plainsrunning;16",
+          "StonehoofTauren;;13",
+          "Execute;Overpower;21",
+          "Pyromancer;Conflagrate;20",
+          "WitchDoctor;SpiritWard;21",
+          "Harpy;TrinketCollectors;20",
+          "Shaman;EarthShield;20"
+        ],
+        [
+          "BaronRivendareLeader;ChillOfTheGrave;16",
+          "Gargoyle;AerialSuperiority;17",
+          "Necromancer;JeweledSkulls;16",
+          "Worgen;Premeditation;15",
+          "SkeletonParty;RitualOfRime;15",
+          "PlagueFarmer;;14",
+          "FaerieDragon;FaeBlessing;19"
+        ],
+        [
+          "SneedLeader;LandGrab;17",
+          "Shaman;EarthShield;20",
+          "WitchDoctor;SpiritWard;21",
+          "EarthElemental;ShrapnelBlast;15",
+          "Pyromancer;Conflagrate;20",
+          "Harpy;InfectiousSwipes;19",
+          "FaerieDragon;FaeBlessing;20"
+        ],
+        [
+          "CharlgaLeader;CavernousMists;16",
+          "Quilboar;Bristleback;17",
+          "Prowler;PredatoryInstincts;19",
+          "Raptors;;14",
+          "Harpy;TrinketCollectors;19",
+          "WitchDoctor;SpiritWard;21",
+          "FaerieDragon;FaeBlessing;19"
+        ],
+        [
+          "DrakkisathLeader;LastingLegacy;20",
+          "Firehammer;HeightenedRage;16",
+          "Pyromancer;Conflagrate;20",
+          "WitchDoctor;SpiritWard;21",
+          "PlagueFarmer;SplashingPumpkins;17",
+          "Harpy;TrinketCollectors;20",
+          "Execute;Overpower;21"
+        ],
+        [
+          "ThaurissanLeader;MoirasWit;14",
+          "Pyromancer;Conflagrate;19",
+          "DarkIronMiner;;13",
+          "WarsongRaider;RazingFocus;15",
+          "WhelpEggs;;14",
+          "WitchDoctor;SpiritWard;20",
+          "FaerieDragon;FaeBlessing;18"
+        ],
+        [
+          "SylvanasLeader;ForsakenFury;17",
+          "Ghoul;Ravenous;16",
+          "Gargoyle;AerialSuperiority;17",
+          "WitchDoctor;SpiritWard;20",
+          "PlagueFarmer;;14",
+          "Harpy;InfectiousSwipes;19",
+          "Execute;Overpower;16"
+        ]
+      ],
+      "lastUpdate": 1715729906
+    },
+    "token": "179e74b3-ed98-4c02-9a0e-9a5bbf9a9d28"
+  }
+]
