@@ -16,7 +16,7 @@ SCOPES = ["https://www.googleapis.com/auth/script.projects"]
 
 SAMPLE_CODE = """
 function helloWorld() {
-  console.log("Hello, world!");
+  runPython();
 }
 """.strip()
 

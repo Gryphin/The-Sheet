@@ -1,58 +1,44 @@
-import requests
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
-from datetime import date, datetime
-from calendar import timegm
+import Guilds.Ashamane as Ashamane
+import Guilds.Cartel as Cartel
+import Guilds.Dalaran as Dalaran
+import Guilds.Everlook as Everlook
+import Guilds.Extended as Extended
+import Guilds.Faldir as Faldir
+import Guilds.Fuselight as Fuselight
+import Guilds.Gallywix as Gallywix
+import Guilds.Mudsprocket as Mudsprocket
+import Guilds.Ratchet as Ratchet
+import Guilds.RingOfTrials as RingOfTrials
+import Guilds.Smokywood as Smokywood
+import Guilds.Steamwheedle as Steamwheedle
+import Guilds.Syndicate as Syndicate
 
-scope = ['https://www.googleapis.com/auth/spreadsheets', "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
+import time
 
-guild = requests.get("https://api.warcraftrumble.gg/guild/438015331").json()
-lastupdated = date.today().strftime("%d %B %Y")
-row = 7
-
-client = gspread.authorize(creds)
-#sheet = client.open_by_key('1l4u48cnXD3ORIDJiXebrhw7QVkhtie92oQ5niGmB0Nw') #Live
-sheet = client.open_by_key('1PYRSgh3asyZpzTWA-6BbnwoaUCyttTZXMYgZc_KLXKY') #Local
-#sheet = client.open_by_key('1zoz4k7uxlQkQ82WZEUcGBNQEEIS15KKgsy818rYKdac') #Dev
-sheet = sheet.worksheet("Everlook")
-
-mogul = sheet.cell(2,12).value
-officerone = sheet.cell(3,12).value
-officertwo = sheet.cell(4,12).value
-
-members = guild["data"]["members"]
-def sortFn(dict):
-    return dict['skulls']
-members.sort(key=sortFn, reverse=True)
-for index, key in enumerate(members):
-    if key["name"] == mogul: #Mogul at top
-        members.insert(0, members.pop(index))
-        members[0]["name"] += "👑"
-    if (key["name"] == officerone) or (key["name"] == officertwo and officerone == ""): #First in line second
-        members.insert(1, members.pop(index))
-        members[1]["name"] += "💍"
-    if key["name"] == officertwo: #second in line third if first exists
-        members.insert(2, members.pop(index))
-        members[2]["name"] += "💍"
-
-for key in members:
-    id = key["id"]
-    name = key["name"]
-    req = requests.get(f"https://api.warcraftrumble.gg/player/{id}")
-    player = req.json()
-    col = 2
-    link = f"=HYPERLINK(\"https://warcraftrumble.gg/player/{id}\", \"{name}\")"
-    col += 2
-    skulls = player['data']["skulls"]
-    col += 1
-    collection = player['data']["level"]
-    col += 1
-    honor = player['data']["leaderAHonor"] + player['data']["leaderBHonor"] + player['data']["leaderCHonor"]
-    col += 3
-    cell_list = sheet.range(f"B{str(row)}:I{str(row)}")
-    for i, val in enumerate([link, "", skulls, collection, str(honor), "", "", lastupdated]):
-        if val != "":
-            cell_list[i].value = val
-    sheet.update_cells(cell_list, value_input_option='USER_ENTERED')
-    row += 1
+Ashamane.Ashamane()
+time.sleep(60)
+Cartel.Cartel()
+time.sleep(60)
+Dalaran.Dalaran()
+time.sleep(60)
+Everlook.Everlook()
+time.sleep(60)
+Extended.Extended()
+time.sleep(60)
+Faldir.Faldir()
+time.sleep(60)
+Fuselight.Fuselight()
+time.sleep(60)
+Gallywix.Gallywix()
+time.sleep(60)
+Mudsprocket.Mudsprocket()
+time.sleep(60)
+Ratchet.Ratchet()
+time.sleep(60)
+RingOfTrials.RingOfTrials()
+time.sleep(60)
+Smokywood.Smokywood()
+time.sleep(60)
+Steamwheedle.Steamwheedle()
+time.sleep(60)
+Syndicate.Syndicate()
